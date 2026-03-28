@@ -1,5 +1,5 @@
 # Design-an-Infrared-remote-control-circuit-using-Eagle-software-and-generate-the-Gerber-file.
-## Exp 4: Design an Infrared remote control circuit using Eagle software
+## Exp 3: Design an Infrared remote control circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an Infrared remote control circuit using Eagle software.
 
